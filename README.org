@@ -1,0 +1,12 @@
+* Windows 10 blue bordered theme for xfwm4
+  Original themes were from -
+
+  - Windows 10 :: Icon theme
+    - Link - (light) [[https://github.com/B00merang-Artwork/Windows-10][Boomerang Artwork]]
+    - Link - (dark) [[https://github.com/B00merang-Artwork/Windows-10-Dark][Boomerang Artwork]]
+
+  Only the xfwm4 themes are used and edited to give a blue
+  border in active windows.
+
+* Useful link -
+  [[https://wiki.xfce.org/howto/xfwm4_theme][Xfwm4 Theme How To]]
